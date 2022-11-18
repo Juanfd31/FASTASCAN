@@ -1,4 +1,4 @@
-#We will define as FASTAS the list of directories where we have fasta files (*.fasta or *.fa)
+#We will define as FASTAS the list of directories where we have fasta files (*.fasta or *.fa) fadasf
 
 #First of all we are going to check if there is an argument (directory).
 # In other words, if the argument ($1) is null or not
